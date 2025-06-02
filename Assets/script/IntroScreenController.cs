@@ -20,17 +20,17 @@ public class IntroScreenController : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && canvas.activeSelf)
         {
             currentImageIndex++;
-            // 如果还有更多的图片
+            
             if (currentImageIndex < introImages.Length)
             {
-                // 显示下一张图片
+                
                 ShowImage(currentImageIndex);
             }
             else
             {
-                // 没有更多的图片，隐藏Canvas
+                
                 canvas.SetActive(false);
-                // 重置currentImageIndex，便于下次观看
+                
                 currentImageIndex = 0;
             }
         }

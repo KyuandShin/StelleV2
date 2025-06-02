@@ -4,19 +4,19 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public int maxHealth = 100; // 最大生命值
-    private int currentHealth; // 当前生命值
+    public int maxHealth = 100; 
+    private int currentHealth; 
 
     private void Start()
     {
-        currentHealth = maxHealth; // 初始化当前生命值为最大生命值
+        currentHealth = maxHealth; 
     }
 
     public void RestoreHealth(int amount)
     {
 
-        currentHealth += amount; // 增加血量
-        currentHealth = Mathf.Min(currentHealth, maxHealth); // 限制血量不超过最大生命值
+        currentHealth += amount; 
+        currentHealth = Mathf.Min(currentHealth, maxHealth);
 
         Debug.Log("Health Restored! Current Health: " + currentHealth);
     }

@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class FoodPickupController : MonoBehaviour
 {
-    private bool playerNearby = false; // 用于检测玩家是否在附近
+    private bool playerNearby = false; 
     public int C = 0;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             playerNearby = true;
-            collision.GetComponent<PlayerMovement>().EnablePickUp(); // 在这里加上了括号
+            collision.GetComponent<PlayerMovement>().EnablePickUp();
         }
     }
 
@@ -20,7 +20,7 @@ public class FoodPickupController : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             playerNearby = false;
-            collision.GetComponent<PlayerMovement>().DisablePickUp(); // 在这里加上了括号
+            collision.GetComponent<PlayerMovement>().DisablePickUp(); 
         }
     }
 
@@ -30,7 +30,7 @@ public class FoodPickupController : MonoBehaviour
 
         if (playerNearby && (Input.GetKeyDown(KeyCode.Space)||C==1))
         {
-            // 销毁触发器附近的食物对象
+
             //Destroy(gameObject);
             gameObject.SetActive(false);
 

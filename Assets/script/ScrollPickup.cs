@@ -7,7 +7,7 @@ public class ScrollPickup : MonoBehaviour
 {
 
     public GameObject[] scrolls;
-    public GameObject[][] scrollGroups; // 存储每个卷轴的剧情组
+    public GameObject[][] scrollGroups; 
     private int currentScrollIndex = 0;
     private int currentImageIndex = 0;
     private bool isDisplaying = false;
@@ -57,11 +57,11 @@ public class ScrollPickup : MonoBehaviour
     {
         GameObject player = GameObject.Find("Player");
         GameObject nearestScroll = null;
-        float nearestDistance = Mathf.Infinity;  // 初始设置为无穷大
+        float nearestDistance = Mathf.Infinity;  
 
         foreach (GameObject scroll in scrolls)
         {
-            // 只考虑活动的（没有被拾取的）卷轴
+            
             if (scroll.activeSelf)
             {
                 float distance = Vector2.Distance(player.transform.position, scroll.transform.position);
