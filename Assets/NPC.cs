@@ -14,9 +14,18 @@ public class NPC : MonoBehaviour
     public float wordSpeed;
     public bool playerIsClose;
 
+/*************  ✨ Windsurf Command ⭐  *************/
+    /// <summary>
+    /// Update is called once per frame
+    /// </summary>
+    /// <remarks>
+    /// If the player presses the F key and is close to the NPC, toggle the dialog panel.
+    /// If the dialog text is the full text of the current line, enable the continue button.
+    /// </remarks>
+/*******  f095027c-e3a3-4457-b6b4-ef4eae28e9f1  *******/
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && playerIsClose)
+        if (Input.GetKeyDown(KeyCode.F) && playerIsClose)
         {
             if (dialogPanel.activeInHierarchy)
             {
