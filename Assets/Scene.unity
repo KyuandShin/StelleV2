@@ -2879,7 +2879,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 138176685}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -42.781, y: 10.654, z: -0.6607}
+  m_LocalPosition: {x: -42.784, y: 10.652, z: -0.6607}
   m_LocalScale: {x: 0.23486763, y: 0.23486763, z: 0.23486763}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -3372,7 +3372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e40bd28e9a1e5614faa0b67c110515d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 659188026}
   healthText: {fileID: 1328754807}
 --- !u!114 &175362844
 MonoBehaviour:
@@ -11495,8 +11495,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 659188021}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -43.8, y: 9.4, z: -40.5}
-  m_LocalScale: {x: 4.34, y: 3.6, z: 0.896258}
+  m_LocalPosition: {x: -21.66, y: 7.37, z: -40.5}
+  m_LocalScale: {x: 1.0074433, y: 0.887112, z: 0.896258}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1900601837}
@@ -11600,8 +11600,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.96, y: 6.38}
-    newSize: {x: 3.96, y: 6.38}
+    oldSize: {x: 20, y: 21.445026}
+    newSize: {x: 20, y: 21.445026}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -11671,12 +11671,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1159946030, guid: 77d36f3adce338f4a8311f70a6835acc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 31b2d64c0f85d41969c400df7f06dc08, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 3.96, y: 6.38}
+  m_Size: {x: 20, y: 21.445026}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -29927,6 +29927,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1900601837}
   - component: {fileID: 1900601836}
+  - component: {fileID: 1900601838}
   m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
@@ -29962,6 +29963,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1900601838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1900601835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 138e668aeb84e4548ac257232ab94b45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  A: 0
+  B: 0
+  C: 0
+  D: 0
 --- !u!1 &1904869043
 GameObject:
   m_ObjectHideFlags: 0
