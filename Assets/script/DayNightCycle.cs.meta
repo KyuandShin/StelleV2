@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 89e5ecc0cbb9792458267196ebf525df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - darkOverlay: {instanceID: 0}
+  - timeDisplay: {fileID: 8122045270297099317, guid: 0f5fe1c48c7b68d498b600e6de0de504, type: 3}
+  - dayDisplay: {fileID: 3684982838011610797, guid: 321ce1da906b85a42855c4af0d288290, type: 3}
+  - dayNightIcon: {fileID: 116529737584447053, guid: f3594482914d9f449831a92fa5abd227, type: 3}
+  - sunIcon: {fileID: 21300000, guid: f111bc415d325fb4f8c1757ca9d56ca9, type: 3}
+  - moonIcon: {fileID: 21300000, guid: b925426fc17f50045af542c285d416e1, type: 3}
+  - ambientAudio: {instanceID: 0}
+  - daySound: {instanceID: 0}
+  - nightSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

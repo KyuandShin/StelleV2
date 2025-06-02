@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 48eafa6d43f78564083bd7034b11e335
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sleepPromptUI: {fileID: 6966105026391494649, guid: 7c0cc2ccdedcaf64da52de380b9e1b05, type: 3}
+  - sleepPromptText: {fileID: 541265477346823973, guid: 6bb1aa2057bb35e428fbcf60e8608568, type: 3}
+  - sleepWarningText: {fileID: 8224798866533420846, guid: 89a8949d158a02d46974bdf0e298dc0a, type: 3}
+  - sleepWarningUI: {fileID: 8861297073316981690, guid: 25fee6e0abdcd14449cff36490627485, type: 3}
+  - sleepButton: {fileID: 1439510787109121612, guid: 5d636aec8cf5719438a5f901bb2bc435, type: 3}
+  - cancelButton: {fileID: 3033098913497800688, guid: 2c40742f6ad2f42458c84d08baf21aea, type: 3}
+  - sleepOverlay: {fileID: 1955586188080377828, guid: 014841b214c9c6d4aa600922202dba3f, type: 3}
+  - bedAudioSource: {instanceID: 0}
+  - sleepSound: {instanceID: 0}
+  - wakeUpSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
