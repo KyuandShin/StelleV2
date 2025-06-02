@@ -1,0 +1,7275 @@
+fileFormatVersion: 2
+guid: cde4ba9206d8f8d4ba60113b572468ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2456
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d492ff3a646443448bcd48cf65c199f
+      internalID: 825920283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2465
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c8b19f79711b147af0b4f88908e653
+      internalID: -885470072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2465
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2781895f4c1f498ae025c1a6782eb
+      internalID: -1987572105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2465
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e14602c10927f4c9fc8ecaa2b55d69
+      internalID: -1529762168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2465
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d723ad6bc4e87c4f8d276bf88c35e75
+      internalID: 1550480049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2456
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3cf31b6cecd345b8aadc728accc97
+      internalID: 955295148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2456
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b50eee1e22114dbe6154f1859848b
+      internalID: 801486989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2456
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44504151706e3469a02ffb31ce656e
+      internalID: -309793115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3897551c74f940b161a2009f44ae2
+      internalID: -189710126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2456
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e4ba4f8a095b4081a855ce87a4c21
+      internalID: 1722259305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2456
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee84c1c2f4d75d4fb5a9631aa78ee9d
+      internalID: -960743799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ed5e9ec7c4734987b74013e56cdd1
+      internalID: 620283001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03bcabb6be539c4f8e67ca382162e90
+      internalID: 1030262602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2456
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bdaffb685aaa64693824e973571a4b
+      internalID: 652518855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2456
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87481cd8dec9b1b459b9e474724c338b
+      internalID: -757947085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72daa97d892b2bd43b3fdfff3a00b371
+      internalID: -2057859193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2456
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4948bd7e7c01e45a2575f13b42414f
+      internalID: -396726044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2456
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4d2cf9a6ca0244a6af1b6da9f173b
+      internalID: -89708100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2377
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878ea9adf5367441988130034f72b46
+      internalID: -1847371167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2377
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c46a3e46318a54a8e7335df6be4396
+      internalID: -940734526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2377
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92986751eed50e4fbdebd28a5e0e789
+      internalID: -839954748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2377
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5016817ae46eb694f96954b347581e6b
+      internalID: 1773154008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2377
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84fa472be358fc44b5947f09928ba51
+      internalID: 1650200240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2377
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f172a872b449a4c8a7981a11a00414
+      internalID: -1853992957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2397
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb4589788c0f854286f22a12129bcca
+      internalID: -282304425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2303
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811cb0c69bdf2244987d8c10b885c6b
+      internalID: 435248049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2303
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9245905a4c45d1141b7ed85a9da5f542
+      internalID: 1586421221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2303
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3284cad1a6f18bd49bd8da11f4cb3a9c
+      internalID: 626031871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2304
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92cecf373c250143b8f425ae8d97ed4
+      internalID: -657470031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2304
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5999cdaf2264ea40b2a5b5252756394
+      internalID: -1492876823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2304
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea16baabc4878644189bcc7d408cd587
+      internalID: -1234356813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2303
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77bbd76775b304abd7d6a80299ed5b
+      internalID: 738609182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2316
+        width: 9
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd1e23c030a8a4fa8b77206b700556
+      internalID: 1242502040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2333
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f6f9c2637ef142801ddb3ade38ae5
+      internalID: -1723247372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2265
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f2e7e73a2dc34085afc5fe5041585
+      internalID: -1212608122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2263
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f5eba0ccf7b344adb26a4049642ba
+      internalID: 1431121921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2265
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6287aed5982f624a87fd5d08cecc3e4
+      internalID: 621018348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2265
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5723a6989e13e4d9e51927059bfc04
+      internalID: 217922558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2265
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d58bfd6ca05f04cba4d8fa3b406505
+      internalID: -1013265964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2265
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bafc5e581f1c4fb00b11413748324
+      internalID: 1725897432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2222
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3c92506803fc4983c89f041602530
+      internalID: 1319809444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2269
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e3645e08b19c41852dcf021f8f2c8
+      internalID: -1930225763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2253
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98dd2af72d3c344a98f94fa6f0383b1
+      internalID: -1066016473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2253
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6fa164751d4042a2ce4036e36ba70
+      internalID: 1313555970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2253
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df52695841147246ba0fd81ef02681a
+      internalID: -1430911908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2257
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496bb0670a90704e8b471135148fbd2
+      internalID: 1588084822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2257
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b4a4f704817ad499a588aea0dcb86f
+      internalID: 787531772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2253
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb25e41f1fc653c4eaab57bcd75adef5
+      internalID: 2104681029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2253
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595511c7d0414a41acd8ecef77901a1
+      internalID: 1327373755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2219
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfa2b1d2dcf7874c9a62ff10bdf2ae0
+      internalID: -1147735656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2160
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03167844993c2e647a3d76b4848c63d6
+      internalID: -965495550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2160
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00628a5c7b4adb4aa2930af7d42e758
+      internalID: 2048848927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2160
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25616555c2c3b48937061363aac52d
+      internalID: -401368694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2160
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97299ebd92cab004280677e1abcfc84b
+      internalID: 1982576572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2219
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae838d721c97c4793da8585e5a71d8
+      internalID: 1106359487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2210
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc21cb719c00d243be36a95eecf616d
+      internalID: -1073376236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2210
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf35fe2577d314f85897bb77abe0e2
+      internalID: -102606449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2197
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870deb1678bdfff4a8d5b2c432f2e519
+      internalID: 1677620198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2197
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2196e46d705a12429934b1615801a86
+      internalID: -489915960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2187
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a479ef1dcab3d428aa2b9a99cb2d40
+      internalID: -1752316544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2187
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461001cd48d5abc41a943736a689125f
+      internalID: -906976553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2193
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6acfaf77a97f4aa97df3362163886
+      internalID: -835058084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2192
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c652d74ee504645ac877a0b9b1dd1f
+      internalID: -1328495345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2192
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ee22598ea1234ba37e61e9ed81410
+      internalID: -1436700762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2154
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5ccf9c79f2b945ac5fa5d9ad02b43
+      internalID: 1668714948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2154
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fde20aec0042748bbcb322966711e9
+      internalID: -939299066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2160
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b693cb38e011508439fd65b679ea401d
+      internalID: 253753841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2160
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67cde7d869e8b546a3fdfa487ad4025
+      internalID: -926101950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2147
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8794978f6f2954f99ce232a166f10a
+      internalID: 533233555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2097
+        width: 321
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a92ecc4afde6c40b7f4f37f13fb54e
+      internalID: 127560044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2129
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fba5dd2e4afe44bdd365dce53d34b
+      internalID: -1787386366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2114
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b390d2c693c540bd22e90c426cb1b
+      internalID: -555417650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2114
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcbd72bfdb56314ea09f8828a75d259
+      internalID: 564294497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2082
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11047d5e0b3061749b8fdbf2be6c3727
+      internalID: 1569497243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2082
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e63df82b190814aabec3c7f6aa654f
+      internalID: 868354979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2082
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771b48ba8e974b4c9aad49695314ea1
+      internalID: 1820183737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2082
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1944b40df88c4448af9ad1e16dd8b86
+      internalID: -363783797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2097
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f550eb8408c964c9d1bade843a4029
+      internalID: 1499136698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2066
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f96a4b28c5de44d92f2cedc564d143
+      internalID: -795275977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2065
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a54b11c6157445bc008a69f4449c5
+      internalID: -754114973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2079
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae16abaedb3584e8e43a768b4aed91
+      internalID: 1776563854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2079
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e72cd3632eabd42b0dad80149633d7
+      internalID: 272127548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2079
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94037a8d21227384896ebb087f8c9d8b
+      internalID: 680176112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2081
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1570078b9d9a47afa9d033904eaef
+      internalID: -21515154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2082
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be40a699aae57d54692779bb923a7a68
+      internalID: -743610494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2032
+        width: 321
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77e49f8050f6449b281dc359a0375a
+      internalID: -1270277989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2065
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807296675b784345b5a22f879e7fa21
+      internalID: 468646176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2019
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84dd60f323a33445a5dffc2b8d3e48c
+      internalID: -2087039922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2019
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486ed27563b3544a8c411896f8b7322
+      internalID: 1045810835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2019
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12e7b35d018e447bfca8a49a7aab34
+      internalID: -172378992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2019
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86acaf7bc176d43b69e2e0590884c3
+      internalID: 1309829149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1982
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7b4d94018d0445bc60d96232cb9dc
+      internalID: 1676739750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2001
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54c7cb312a88c45b214cf1a7294075
+      internalID: 1614806950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2001
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c280d0220a9d4aa7f95664edd15be
+      internalID: 915648588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1919
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce15390547850e49a5c6db61608f4e5
+      internalID: -1638113623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1987
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56b8c9d60d68ee4880f9389f839a022
+      internalID: 1723318512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1987
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d06741c7350f4fac544fe73fcb55f
+      internalID: -988414312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1982
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8f0ac164570e41828420d967c51a8
+      internalID: -597208174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1987
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96621aba340bc5941b6cd539773143e7
+      internalID: -1027854956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1987
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d20bce980bcf44419610139d1c2a6b1
+      internalID: 112126366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1987
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20753f4768aa82a4cbd2aea2459ff6f9
+      internalID: -1862083260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1919
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613a19845d2fec408ccd216fdc0d2d9
+      internalID: -1348194933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1954
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7289fd1d1e34ea84bace53d138e46f54
+      internalID: 738181670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1954
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f6fa718c6fb1746b4c30106de5da96
+      internalID: 483272217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1954
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b640c68bd1fc24e9218d9404d1e304
+      internalID: 76709560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1886
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76c1fc55c5c354dba31a80d6bd685b
+      internalID: 132379761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1886
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0acc4923b1ee94f86170ddbd898182
+      internalID: -180618267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1954
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ea88028dfd6c4982f046efa7fe293
+      internalID: -1944427563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1954
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18207cd171e9c7d4b9bb621d693ee6c2
+      internalID: 1858132259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1954
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40440e37bc9023643b2a62c8f4a90861
+      internalID: -56036465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1919
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a57dc70e560334e9c27995215d938d
+      internalID: 1257590801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1938
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b4be7df21ffc48ac289441884a9e0
+      internalID: 2023962973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1937
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763a20e0f4642b44b3da915b2895959
+      internalID: 622953478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1923
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a52e579d1733244bab1e8eb894da81
+      internalID: 135814831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1923
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af2ddbfd4148146b11d630eed86b7a
+      internalID: -1237577806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1923
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d1a9d5dd18a954c9eb3289f7a3278a
+      internalID: 1936545195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1923
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c701d9305c814fa59ba39105758de
+      internalID: -1723216673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1923
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e129e2d3f6f020544b905c5138e01d74
+      internalID: 1660803950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1923
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a42d3320cfb7fc4cbe594c7af8c96aa
+      internalID: -2086803341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1823
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aba448d41821a48b29248c7d415604
+      internalID: 90253361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1904
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284f5d3e589d56428332b77e286e51d
+      internalID: 54463030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1904
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ffac825301654fb483200ddc9ae3f
+      internalID: 2140934496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1904
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d991c0433c696b4185e40f1e1f9ef7c
+      internalID: -1364301451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1904
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0444851cc84d54faa73c315ccb2817
+      internalID: -1019938775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1904
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9214b2bfc14593408f7c3bc30f94d96
+      internalID: -2027935937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1904
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ecbb21d54f28d47957fb5ba52247f8
+      internalID: -66469318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1875
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5018caf0785d4fac614d1c2810f68
+      internalID: 503570487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1873
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d77b67fc1b9d4a95ee7384284b777
+      internalID: -545342048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1859
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51abd9464192eb48bae94eff67453ca
+      internalID: 667548343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1867
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de887854a1e1f1942b157d9a3b6094e4
+      internalID: 1307289266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1867
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8e5bda8ab99640a00c80404e38ffe
+      internalID: 1051130331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1867
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea5939e137ff240ac4629103cc598e
+      internalID: -711685669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1860
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0befadacf500f64e88c35b3d664afff
+      internalID: -1152077890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1860
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17155243a8d18c43ba6d30d791edc5e
+      internalID: -1771936070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1867
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22605944c072d144cb8da701c0ec8707
+      internalID: -543367530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1867
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b9fb334b4643c42a0ba7e692965b2b
+      internalID: 1736609790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1867
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23442c12d6ff542be920859f809382
+      internalID: -1000784211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1859
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be894291853316c4bb73046fe2dbf132
+      internalID: 244646430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1835
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f98cf4b7013a44dbc6ed3652e16e9c
+      internalID: -2127434337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1795
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1d707657798741852150f123f4682
+      internalID: 1145333500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1792
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e5cbb24da08745a9f691bfb6d4ce3
+      internalID: 902846368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1829
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5608bba87c5300642a062b30fb6861d7
+      internalID: -1604643165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1804
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c530510096baf404f8f9ec3b00ab62bd
+      internalID: 1754474422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1829
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc5aa56eade0c498b7f1df15c30e55
+      internalID: -723930953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1829
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e0b65d27a6b754d808a6b39273c093
+      internalID: -2055689113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1792
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc063e8afcdad348b7389c702c4ee4e
+      internalID: -1540034256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1795
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b266d88fe24fcd4e8cc32150524036a
+      internalID: -933615676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1835
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467e14a3c15a854c944a67c54a0993c
+      internalID: -279774877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1823
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8556aaf4c4bb114baf8575c33ac5ae7
+      internalID: 70995623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1823
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974fa00c3dcdde4d93c717922dddcbf
+      internalID: -147422001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1663
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c26054d72b6ea43956e927ff2ef35c
+      internalID: -1516906108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1758
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c01e9aa717794d975d6e792e70263
+      internalID: -1315817620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1795
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705e3f09f3fcda47ba97d09fe8ba9a2
+      internalID: -1081611117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1795
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a94c4b4dfd2342afacc72d3864705
+      internalID: 2045964327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1791
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd676f8e697c74889b276c48d8abda
+      internalID: 1179076534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1663
+        width: 25
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5a9ab0ca8bab41b1812547fbdb919
+      internalID: 875025309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1663
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0903d247bdb349ae445a559eb025b
+      internalID: 1398475977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1663
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde64cdc57c2d2e4cb4fd7e7bae3a5e1
+      internalID: -742062770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1704
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce0fb4af37743b44ae7602d0939ad35
+      internalID: -1491196801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1775
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a042947870abf847843a20573f3d374
+      internalID: -1673703356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1713
+        width: 127
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9e2469ee1d0244b2e61d4a2439861
+      internalID: 499531297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1775
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f21c089ec6fa8f4d8aa7fea6398305b
+      internalID: -2134105686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1775
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33897d333e60f841b674c95fc657948
+      internalID: 178414293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1704
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a671a537a396547b00b15dc434c13f
+      internalID: 2069076999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1651
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054960d217a180744bebdd94a47275e2
+      internalID: -544437809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1651
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac7c8e859e22140a1a8d70668531ce
+      internalID: 1992059554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1673
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b08a5078c91c479ec032bf782d605
+      internalID: 1459320157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1673
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c42e5ee4ae20d4996bffe70eb77aa1
+      internalID: 1078221308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1648
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d54ce3b3990494eae8437de0bdd11b
+      internalID: -680238172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1648
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513ee76273372e4d8ab0905eb8d180f
+      internalID: 751866980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 287
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2518ef1a8edabce4db1a37a74cd80e23
+      internalID: -1290814849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1601
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15804f80cba113d45a9f5e0ddadb512c
+      internalID: 683186245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1535
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ae296936ba67469d87c283a4a717a
+      internalID: 1639163219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1569
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3327eff4c51a81c4abfb60633aec6821
+      internalID: -857269166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1536
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770593df1c3c40540847d51935f1f1b3
+      internalID: 813713417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1386
+        width: 169
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db4929d7b9c1384384c3e98ecbc8eae
+      internalID: 1612620284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1495
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f978e08b5de914fb76da86ee03041f
+      internalID: -978823670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1495
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db7bbcf13f548498aa07f4512f9a7a
+      internalID: -582290450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1495
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d76590338ed9fd49b8cf84dd34ae54e
+      internalID: 1554261572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1495
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2764a98564ba4491bf9b210485600
+      internalID: 1010950532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1495
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646442640292ad743a9fdd635e6b857b
+      internalID: -1281853292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 162
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32455b1d3eb428c4aa117593ad59f800
+      internalID: -805437892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1430
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a9abd8635d75649bc714850c289fc1
+      internalID: 1627333931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1430
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2403f5cce7d2034ca4ee2c407080bee
+      internalID: 264971327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1430
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4937e13ccb964ea8b85b33e93fab3
+      internalID: 2029442653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1430
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8e0bc4ec1aac4daaa54ba930875d7
+      internalID: 1933943402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1425
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148dda2ea0412154e94eb812f3da0e72
+      internalID: 2023453438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 162
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9837aff57f0e2ba44aef43511a309bfc
+      internalID: 1118932359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1347
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f750ca6da6541c498c6d08257f2436a
+      internalID: 490118355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1374
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aabaea14f12c44c9a611d41c06bafc
+      internalID: 1613780223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_190
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1321
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de1fe37a4e52745acf19c07e27bb77
+      internalID: 2089398470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_191
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1342
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4205bea396102542a7796e80cdcb403
+      internalID: -1209863053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_192
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1336
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd2ee44b23a9384cb21485e2bbc4179
+      internalID: 666944913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_193
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1336
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16298fd8acb12fc4183124ea33d26ff0
+      internalID: 466037249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_194
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1336
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430f50f54d9b0f4596e4db0d901a16a
+      internalID: 21085709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_195
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1336
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605410a166e698c48977739a18bb47cd
+      internalID: -1112933423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_196
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1283
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ad6e3b19eee7944a1140e2fe5cd859
+      internalID: -410644851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_197
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1292
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e37e837c8d9944a4e83fcf8f8f4f6
+      internalID: 1100849002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_198
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1279
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73354914cf550fc469681bc3d6c73028
+      internalID: -135691692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_199
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1299
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91264299a0457044d80a6da5381701a9
+      internalID: -729191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_200
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1214
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba48b62e2a0534bb3921ebee4c5cf2
+      internalID: -643684601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_201
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1279
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b08b49645cda54796102c9e218f067
+      internalID: -732819128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_202
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1264
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c51337261179458c3225690f6998f
+      internalID: -772607812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_203
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1264
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a190bbda26bfbd6489d59a78b32b5af3
+      internalID: 1976957683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_204
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1257
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e5883d5c55ab4690313f26939136e
+      internalID: 531550811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_205
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1264
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2acb93c43698f4eb515c086c056c45
+      internalID: 1120859716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_206
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1264
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ee7dfa08b3cc49903b73f76f46bc4
+      internalID: 746108706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_207
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1257
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae638ad1b0c9714fb314b5b93b67f88
+      internalID: -462851133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_208
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1218
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc42e84e80c0c4397a2b3c646bc74b
+      internalID: -680883070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_209
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1246
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f8a2263f586945b80eb17265cd918
+      internalID: -25340253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_210
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1235
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d42a554213b94586c862317ee8800
+      internalID: -1371597345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_211
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1227
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4abbaf7f339a48a2a429c2bcce506
+      internalID: -1763260368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 34
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9212f9ab462d7f4599d6dab8f95bb86
+      internalID: 1969107749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_213
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1199
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b4af0334e493449405bf8e960a23f
+      internalID: -1454752063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1199
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1440747310b24b81fa8f0372ad9f4
+      internalID: -46645582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_215
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1199
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046001afdd3f28d4895aa8c91672df2b
+      internalID: 1257767820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_216
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1199
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe3a6b8995f1b47b556baa305d1715
+      internalID: 29199097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_217
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1165
+        width: 183
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dead9071851b2140ae9814736454313
+      internalID: 1379129780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_218
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1171
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a19b8e73a10c2448817da872d538a2
+      internalID: -1281061637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_219
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1171
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b775c330954a49b76bace85e3b8fa
+      internalID: 1306420195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_220
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1171
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fffbaa7d0947b94f8693ed5e9a5a819
+      internalID: -1421989523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_221
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1056
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e898465765d969469b6980f8ad3c21e
+      internalID: -544953755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_222
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1118
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808821b33cda2f488f88fd3281cb5df
+      internalID: -2048346408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_223
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1106
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa92bd3df338d94e930fe504a5d23c5
+      internalID: -125185280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_224
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1106
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4a400a055b314a8935eab1b873717
+      internalID: 1850010770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_225
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1106
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892657e5762030e4389a540c91beb381
+      internalID: -2061435383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_226
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1106
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda7ac742b5d8e94995c7e604339169f
+      internalID: 711997610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_227
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba65dd7ee35babc4eb188f5b3d5893e0
+      internalID: -303307564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_228
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1118
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61ea4d52e954c4f8d09e0296b1721d
+      internalID: -683431290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_229
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1095
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943925b0a497a9448b9ca15896a6a6a
+      internalID: 1869415586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_230
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1095
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e8db8e159cf140a80ab83c3badea0
+      internalID: 465504225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6895032422c24754487a0ba86cc62642
+      internalID: 1761712350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_232
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1061
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690b84db0268634bac699e6a5e8818a
+      internalID: -464585495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_233
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1039
+        width: 190
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0757f9df92f5efc4ba34f597dc7352d0
+      internalID: 1736679899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_234
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1087
+        width: 99
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08f73fe69b21d4e91502d8404dfe4f
+      internalID: -1331419824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_235
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1017
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab26dff265e2df48a386b4ddac8fd07
+      internalID: 1270326845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_236
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1029
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a044cee9d73d44cab2373a9c60d932
+      internalID: 116867425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_237
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1035
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b9baedf1aa5f94d9070d8caad55f35
+      internalID: 775657587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_238
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1061
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec848d4254884441bf0c8d1dab799c1
+      internalID: 1931837206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_239
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1023
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab526ed0cae2514c9b5ec65c4f1fa89
+      internalID: -946900899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 192
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51b90185edeef74d9aaf789b566de72
+      internalID: -1856692411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_241
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 943
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b2ebb2efaf7e4fb60f119012c79b7
+      internalID: 112522527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_242
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 977
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a630f7fa55f96409e7698e316bcf28
+      internalID: 2063435613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_243
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 993
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290ad12cf88c9441b835610f0f4e11d
+      internalID: -1267410056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_244
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 993
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3c581de4d8e5429c7f2df67fcd097
+      internalID: -1327502261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_245
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 931
+        width: 213
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be5996889d35e488217212943af620
+      internalID: 769999685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 287
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cfdca4684a214d9ea8f27bb7b7f56
+      internalID: -1364813582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_247
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 879
+        width: 158
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d199c96f221f14e90158955655f36d
+      internalID: 1524252167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_248
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 799
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba024004b44d34d80f05befafee7b8
+      internalID: -1535556158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_249
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 817
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097424c3adcce664abeb5bfb8b4b5278
+      internalID: -1914139680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_250
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 818
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3471dcae16ea3144993d8d0318c3409e
+      internalID: -510045590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_251
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 753
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e7d34938b2344b84a954485fc5577
+      internalID: -968289942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_252
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 817
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5908af9e97b7e94d8944ef021669363
+      internalID: 1674249417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_253
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 817
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a3db5bc5fe7643921b2e1c1bf9f3e
+      internalID: 1166207978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_254
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 258
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95889666f23a214468a057bd691b61f5
+      internalID: -587402302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_255
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 783
+        width: 116
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed610e4e6f366747a95854fb27b2cbe
+      internalID: 802932204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_256
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 784
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12aecf49458772469c5fc77c359e9ea
+      internalID: -771779273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_257
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 784
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73807a21899d4b142bdcd0ba95ef8525
+      internalID: 1415025176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_258
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 671
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c042573499fc9040a04eb17bdd4579a
+      internalID: 2142217914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_259
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 706
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de911ec40983648b2ef97ad3a442df
+      internalID: 993937059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_260
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 699
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66ae93af9944246a9650007e15b61d
+      internalID: 1707994931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_261
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 677
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1d238617bfcd4782db501d8c61d2a
+      internalID: -889343483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_262
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 697
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee830fa5b6cd7b48a1ece5d8a2e6547
+      internalID: -1620812292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_263
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 386
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8474995505dd204b8166119abdd4742
+      internalID: 1844834811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_264
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 627
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db2c7a9e4fc2e34989fb65253c2ec2e
+      internalID: -192158455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_265
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 627
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b9f7d67c7f40478507775bed6622c
+      internalID: -930031162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_266
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 622
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c280a1c7d10443bdf3ef9beaf324d
+      internalID: 1695584488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_267
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 615
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606a2384edfdb9e49afbfdeeecda7594
+      internalID: -360327189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_268
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 562
+        width: 112
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8e128409015649a5e8623562a9894
+      internalID: 1948250763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_269
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 578
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12f27c11017f084ab0d4f7ec2161674
+      internalID: 1386446341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_270
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 478
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac75087a0f1f44090592d2203597a5
+      internalID: 2091757685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_271
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 543
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f9454ab6e9c64daf767413b3584b5
+      internalID: 20320016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_272
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 478
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a52678fe7b6a489425db85a4f27ec
+      internalID: -1007593521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_273
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 447
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e49e855582e0b4a975372fa5115017
+      internalID: 1477295431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_274
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 394
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d5cef2825bdc147998d26c1b9ae95f
+      internalID: 2130189444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_275
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 394
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c146c77f599f4a95489e77d89dd1b
+      internalID: -1707794524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_276
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 307
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5424cae44142574293a68d4475e8b55
+      internalID: -78949914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_277
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 307
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01386b1c2a5e95c4f8140678b4b268b6
+      internalID: -1973175990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_278
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ee2a54a46f7a4a9606a2a1f439edc
+      internalID: 1037238615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_279
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 287
+        width: 195
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67727c48e20c254aa24540173870d01
+      internalID: -146634143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_280
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 322
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7f4271dea549d4e9603c7fb2503217
+      internalID: 194469718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_281
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 288
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9845b6bded683154da70e62646cd2a0a
+      internalID: -1516966402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_282
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 322
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0425e447e9f984f910ac0e6af36348
+      internalID: -1104326199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_283
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 343
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9093e36ab86254e9cc38a4c5f0c0ee
+      internalID: 976163547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_284
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 319
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1116e428ca2ff574a99100ae39106d7d
+      internalID: 163753704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_285
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 287
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2457691ea9b2f4546a638584c4b37cc9
+      internalID: 1704541794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_286
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 287
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf008d1b1b7b8b44bd7704fa550d38a
+      internalID: 1008336710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_287
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 291
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334f90aa5d36dd4db4115028efb0e17
+      internalID: 961229601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_288
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 288
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228ed947da16ca4690a9a971172a1ce
+      internalID: -1468636595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_289
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 276
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00acad4ef518f5c4b87a4faf1cc2cdb2
+      internalID: -817648839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_290
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 278
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bffb4279d3541a4298d0b41b485dcdf
+      internalID: 1003968984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_291
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aa6a50fd9c6874389f5f960942d5b9
+      internalID: -1544211558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_292
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 231
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700182485e5d04d4fa55e6f4b64158da
+      internalID: 2068203038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_293
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 231
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec63d291e8262a45b46e2a6fc8958d1
+      internalID: -1182550694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_294
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 231
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9611ba8a792947977dc00f306000a
+      internalID: 1051960318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_295
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 231
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0452a16297fa4dbeaa546a6a78e8c
+      internalID: -2016107006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_296
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 231
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8dcdd77c8284d4b93d3698ce6c37ae
+      internalID: 1958507687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_297
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 269
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f71befcc756fd46aee805c8334fd27
+      internalID: -501958484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_298
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 269
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d64ed33a98994a812c9aa7ebfb06d
+      internalID: 1456134475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_299
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 269
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb4a9e8a5b7724193230aea925c8a0
+      internalID: -952735077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_300
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 259
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0886a9b32ded8d94a989cb93f1ac1c3a
+      internalID: 940831215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_301
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 259
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1772dc699b133648b5dae3757bdeb9d
+      internalID: -370928320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_302
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 255
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411503c043c45a84491811d874950ef8
+      internalID: -665847341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_303
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 249
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883921a94108e7428bbb02254652624
+      internalID: 975078259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_304
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 249
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82076b7979475b149b09d68e13e0f030
+      internalID: -1500530925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_305
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b4919de514d3449e75405a608cb52
+      internalID: 1964000758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_306
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58fbe1a200f69d4e9072f19cb155996
+      internalID: -714083759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_307
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c40f7ed4fdfc54ba47fe6b1b47d76f
+      internalID: -1217540074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_308
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 165
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b96eff979a5094fbc94b8e34463834
+      internalID: 1113388001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_309
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 159
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922578f8418de4342ba25b7a74ce2907
+      internalID: -1007310988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_310
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 207
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a8331884f44404695d851221287249
+      internalID: -1634629120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_311
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ebd2397021d44999cf3e4d1222906
+      internalID: 654644527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_312
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e90a237bb7ed546bec0826992b9a31
+      internalID: 1362247345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_313
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 85
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fed83c22a3f64682d3e1818cd7685
+      internalID: -1961471720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_314
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 82
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4cf95cc89a9442b2cfb05b3215680
+      internalID: 299179564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_315
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 82
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089c3113163acc4c83af3b6615b117b
+      internalID: 1522746791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_316
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40bb16f852c1764dac09f7650f00cf0
+      internalID: -918975814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_317
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 82
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8002c5256769fd84398f51359012f456
+      internalID: 317929880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_318
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77fa40d0421b394e9fefcb833178422
+      internalID: 176769990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_319
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 14
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4f94b0ad3b8d14d9532b982b0e468e
+      internalID: -1333419967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_320
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 19
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a87dcda5414164399f6edfa2c2ba12
+      internalID: 839241500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_321
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faceb595ddcf7504088d4a6e7f87a353
+      internalID: 724367129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_322
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e267d09d937dc449a4cc2d3467bf529
+      internalID: -1387782968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Grocery_store_Black_Shadow_32x32_323
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 19
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30798c6a475b2ea4ea56bbf5871953ae
+      internalID: -434788291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      16_Grocery_store_Black_Shadow_32x32_7: -309793115
+      16_Grocery_store_Black_Shadow_32x32_170: -1290814849
+      16_Grocery_store_Black_Shadow_32x32_272: -1007593521
+      16_Grocery_store_Black_Shadow_32x32_243: -1267410056
+      16_Grocery_store_Black_Shadow_32x32_313: -1961471720
+      16_Grocery_store_Black_Shadow_32x32_32: 1242502040
+      16_Grocery_store_Black_Shadow_32x32_315: 1522746791
+      16_Grocery_store_Black_Shadow_32x32_16: -396726044
+      16_Grocery_store_Black_Shadow_32x32_246: -1364813582
+      16_Grocery_store_Black_Shadow_32x32_66: 253753841
+      16_Grocery_store_Black_Shadow_32x32_128: 667548343
+      16_Grocery_store_Black_Shadow_32x32_242: 2063435613
+      16_Grocery_store_Black_Shadow_32x32_100: -1862083260
+      16_Grocery_store_Black_Shadow_32x32_137: 244646430
+      16_Grocery_store_Black_Shadow_32x32_166: 1459320157
+      16_Grocery_store_Black_Shadow_32x32_147: -279774877
+      16_Grocery_store_Black_Shadow_32x32_190: 2089398470
+      16_Grocery_store_Black_Shadow_32x32_304: -1500530925
+      16_Grocery_store_Black_Shadow_32x32_263: 1844834811
+      16_Grocery_store_Black_Shadow_32x32_212: 1969107749
+      16_Grocery_store_Black_Shadow_32x32_95: 1723318512
+      16_Grocery_store_Black_Shadow_32x32_153: 2045964327
+      16_Grocery_store_Black_Shadow_32x32_213: -1454752063
+      16_Grocery_store_Black_Shadow_32x32_298: 1456134475
+      16_Grocery_store_Black_Shadow_32x32_160: 499531297
+      16_Grocery_store_Black_Shadow_32x32_130: 1051130331
+      16_Grocery_store_Black_Shadow_32x32_262: -1620812292
+      16_Grocery_store_Black_Shadow_32x32_3: -1529762168
+      16_Grocery_store_Black_Shadow_32x32_140: 902846368
+      16_Grocery_store_Black_Shadow_32x32_26: 1586421221
+      16_Grocery_store_Black_Shadow_32x32_86: 468646176
+      16_Grocery_store_Black_Shadow_32x32_302: -665847341
+      16_Grocery_store_Black_Shadow_32x32_290: 1003968984
+      16_Grocery_store_Black_Shadow_32x32_185: 1933943402
+      16_Grocery_store_Black_Shadow_32x32_79: -754114973
+      16_Grocery_store_Black_Shadow_32x32_103: 483272217
+      16_Grocery_store_Black_Shadow_32x32_321: 724367129
+      16_Grocery_store_Black_Shadow_32x32_224: 1850010770
+      16_Grocery_store_Black_Shadow_32x32_287: 961229601
+      16_Grocery_store_Black_Shadow_32x32_197: 1100849002
+      16_Grocery_store_Black_Shadow_32x32_182: 1627333931
+      16_Grocery_store_Black_Shadow_32x32_168: -680238172
+      16_Grocery_store_Black_Shadow_32x32_39: 1725897432
+      16_Grocery_store_Black_Shadow_32x32_24: -282304425
+      16_Grocery_store_Black_Shadow_32x32_152: -1081611117
+      16_Grocery_store_Black_Shadow_32x32_44: -1430911908
+      16_Grocery_store_Black_Shadow_32x32_181: -805437892
+      16_Grocery_store_Black_Shadow_32x32_47: 2104681029
+      16_Grocery_store_Black_Shadow_32x32_12: 1030262602
+      16_Grocery_store_Black_Shadow_32x32_9: 1722259305
+      16_Grocery_store_Black_Shadow_32x32_156: 1398475977
+      16_Grocery_store_Black_Shadow_32x32_214: -46645582
+      16_Grocery_store_Black_Shadow_32x32_276: -78949914
+      16_Grocery_store_Black_Shadow_32x32_187: 1118932359
+      16_Grocery_store_Black_Shadow_32x32_68: 533233555
+      16_Grocery_store_Black_Shadow_32x32_230: 465504225
+      16_Grocery_store_Black_Shadow_32x32_218: -1281061637
+      16_Grocery_store_Black_Shadow_32x32_239: -946900899
+      16_Grocery_store_Black_Shadow_32x32_267: -360327189
+      16_Grocery_store_Black_Shadow_32x32_236: 116867425
+      16_Grocery_store_Black_Shadow_32x32_245: 769999685
+      16_Grocery_store_Black_Shadow_32x32_278: 1037238615
+      16_Grocery_store_Black_Shadow_32x32_283: 976163547
+      16_Grocery_store_Black_Shadow_32x32_102: 738181670
+      16_Grocery_store_Black_Shadow_32x32_69: 127560044
+      16_Grocery_store_Black_Shadow_32x32_113: 135814831
+      16_Grocery_store_Black_Shadow_32x32_314: 299179564
+      16_Grocery_store_Black_Shadow_32x32_171: 683186245
+      16_Grocery_store_Black_Shadow_32x32_255: 802932204
+      16_Grocery_store_Black_Shadow_32x32_288: -1468636595
+      16_Grocery_store_Black_Shadow_32x32_5: 955295148
+      16_Grocery_store_Black_Shadow_32x32_192: 666944913
+      16_Grocery_store_Black_Shadow_32x32_195: -1112933423
+      16_Grocery_store_Black_Shadow_32x32_203: 1976957683
+      16_Grocery_store_Black_Shadow_32x32_297: -501958484
+      16_Grocery_store_Black_Shadow_32x32_217: 1379129780
+      16_Grocery_store_Black_Shadow_32x32_306: -714083759
+      16_Grocery_store_Black_Shadow_32x32_78: -795275977
+      16_Grocery_store_Black_Shadow_32x32_318: 176769990
+      16_Grocery_store_Black_Shadow_32x32_129: 1307289266
+      16_Grocery_store_Black_Shadow_32x32_188: 490118355
+      16_Grocery_store_Black_Shadow_32x32_316: -918975814
+      16_Grocery_store_Black_Shadow_32x32_252: 1674249417
+      16_Grocery_store_Black_Shadow_32x32_123: -1019938775
+      16_Grocery_store_Black_Shadow_32x32_41: -1930225763
+      16_Grocery_store_Black_Shadow_32x32_222: -2048346408
+      16_Grocery_store_Black_Shadow_32x32_163: 2069076999
+      16_Grocery_store_Black_Shadow_32x32_265: -930031162
+      16_Grocery_store_Black_Shadow_32x32_22: 1650200240
+      16_Grocery_store_Black_Shadow_32x32_206: 746108706
+      16_Grocery_store_Black_Shadow_32x32_164: -544437809
+      16_Grocery_store_Black_Shadow_32x32_199: -729191243
+      16_Grocery_store_Black_Shadow_32x32_127: -545342048
+      16_Grocery_store_Black_Shadow_32x32_198: -135691692
+      16_Grocery_store_Black_Shadow_32x32_43: 1313555970
+      16_Grocery_store_Black_Shadow_32x32_119: 90253361
+      16_Grocery_store_Black_Shadow_32x32_112: 622953478
+      16_Grocery_store_Black_Shadow_32x32_151: -1315817620
+      16_Grocery_store_Black_Shadow_32x32_51: 2048848927
+      16_Grocery_store_Black_Shadow_32x32_62: -1328495345
+      16_Grocery_store_Black_Shadow_32x32_67: -926101950
+      16_Grocery_store_Black_Shadow_32x32_25: 435248049
+      16_Grocery_store_Black_Shadow_32x32_81: 272127548
+      16_Grocery_store_Black_Shadow_32x32_125: -66469318
+      16_Grocery_store_Black_Shadow_32x32_233: 1736679899
+      16_Grocery_store_Black_Shadow_32x32_11: 620283001
+      16_Grocery_store_Black_Shadow_32x32_52: -401368694
+      16_Grocery_store_Black_Shadow_32x32_172: 1639163219
+      16_Grocery_store_Black_Shadow_32x32_101: -1348194933
+      16_Grocery_store_Black_Shadow_32x32_257: 1415025176
+      16_Grocery_store_Black_Shadow_32x32_114: -1237577806
+      16_Grocery_store_Black_Shadow_32x32_136: -1000784211
+      16_Grocery_store_Black_Shadow_32x32_294: 1051960318
+      16_Grocery_store_Black_Shadow_32x32_18: -1847371167
+      16_Grocery_store_Black_Shadow_32x32_309: -1007310988
+      16_Grocery_store_Black_Shadow_32x32_210: -1371597345
+      16_Grocery_store_Black_Shadow_32x32_247: 1524252167
+      16_Grocery_store_Black_Shadow_32x32_10: -960743799
+      16_Grocery_store_Black_Shadow_32x32_229: 1869415586
+      16_Grocery_store_Black_Shadow_32x32_33: -1723247372
+      16_Grocery_store_Black_Shadow_32x32_93: 915648588
+      16_Grocery_store_Black_Shadow_32x32_139: 1145333500
+      16_Grocery_store_Black_Shadow_32x32_143: -723930953
+      16_Grocery_store_Black_Shadow_32x32_53: 1982576572
+      16_Grocery_store_Black_Shadow_32x32_58: -489915960
+      16_Grocery_store_Black_Shadow_32x32_228: -683431290
+      16_Grocery_store_Black_Shadow_32x32_175: 1612620284
+      16_Grocery_store_Black_Shadow_32x32_223: -125185280
+      16_Grocery_store_Black_Shadow_32x32_35: 1431121921
+      16_Grocery_store_Black_Shadow_32x32_240: -1856692411
+      16_Grocery_store_Black_Shadow_32x32_85: -1270277989
+      16_Grocery_store_Black_Shadow_32x32_209: -25340253
+      16_Grocery_store_Black_Shadow_32x32_145: -1540034256
+      16_Grocery_store_Black_Shadow_32x32_305: 1964000758
+      16_Grocery_store_Black_Shadow_32x32_141: -1604643165
+      16_Grocery_store_Black_Shadow_32x32_258: 2142217914
+      16_Grocery_store_Black_Shadow_32x32_133: -1771936070
+      16_Grocery_store_Black_Shadow_32x32_279: -146634143
+      16_Grocery_store_Black_Shadow_32x32_249: -1914139680
+      16_Grocery_store_Black_Shadow_32x32_56: -102606449
+      16_Grocery_store_Black_Shadow_32x32_2: -1987572105
+      16_Grocery_store_Black_Shadow_32x32_167: 1078221308
+      16_Grocery_store_Black_Shadow_32x32_179: 1010950532
+      16_Grocery_store_Black_Shadow_32x32_1: -885470072
+      16_Grocery_store_Black_Shadow_32x32_134: -543367530
+      16_Grocery_store_Black_Shadow_32x32_90: 1309829149
+      16_Grocery_store_Black_Shadow_32x32_135: 1736609790
+      16_Grocery_store_Black_Shadow_32x32_138: -2127434337
+      16_Grocery_store_Black_Shadow_32x32_219: 1306420195
+      16_Grocery_store_Black_Shadow_32x32_98: -1027854956
+      16_Grocery_store_Black_Shadow_32x32_231: 1761712350
+      16_Grocery_store_Black_Shadow_32x32_285: 1704541794
+      16_Grocery_store_Black_Shadow_32x32_105: 132379761
+      16_Grocery_store_Black_Shadow_32x32_291: -1544211558
+      16_Grocery_store_Black_Shadow_32x32_281: -1516966402
+      16_Grocery_store_Black_Shadow_32x32_274: 2130189444
+      16_Grocery_store_Black_Shadow_32x32_42: -1066016473
+      16_Grocery_store_Black_Shadow_32x32_237: 775657587
+      16_Grocery_store_Black_Shadow_32x32_261: -889343483
+      16_Grocery_store_Black_Shadow_32x32_120: 54463030
+      16_Grocery_store_Black_Shadow_32x32_21: 1773154008
+      16_Grocery_store_Black_Shadow_32x32_49: -1147735656
+      16_Grocery_store_Black_Shadow_32x32_250: -510045590
+      16_Grocery_store_Black_Shadow_32x32_289: -817648839
+      16_Grocery_store_Black_Shadow_32x32_216: 29199097
+      16_Grocery_store_Black_Shadow_32x32_29: -1492876823
+      16_Grocery_store_Black_Shadow_32x32_64: 1668714948
+      16_Grocery_store_Black_Shadow_32x32_8: -189710126
+      16_Grocery_store_Black_Shadow_32x32_169: 751866980
+      16_Grocery_store_Black_Shadow_32x32_310: -1634629120
+      16_Grocery_store_Black_Shadow_32x32_48: 1327373755
+      16_Grocery_store_Black_Shadow_32x32_50: -965495550
+      16_Grocery_store_Black_Shadow_32x32_204: 531550811
+      16_Grocery_store_Black_Shadow_32x32_225: -2061435383
+      16_Grocery_store_Black_Shadow_32x32_191: -1209863053
+      16_Grocery_store_Black_Shadow_32x32_142: 1754474422
+      16_Grocery_store_Black_Shadow_32x32_268: 1948250763
+      16_Grocery_store_Black_Shadow_32x32_30: -1234356813
+      16_Grocery_store_Black_Shadow_32x32_75: 1820183737
+      16_Grocery_store_Black_Shadow_32x32_131: -711685669
+      16_Grocery_store_Black_Shadow_32x32_116: -1723216673
+      16_Grocery_store_Black_Shadow_32x32_45: 1588084822
+      16_Grocery_store_Black_Shadow_32x32_106: -180618267
+      16_Grocery_store_Black_Shadow_32x32_80: 1776563854
+      16_Grocery_store_Black_Shadow_32x32_46: 787531772
+      16_Grocery_store_Black_Shadow_32x32_189: 1613780223
+      16_Grocery_store_Black_Shadow_32x32_146: -933615676
+      16_Grocery_store_Black_Shadow_32x32_194: 21085709
+      16_Grocery_store_Black_Shadow_32x32_220: -1421989523
+      16_Grocery_store_Black_Shadow_32x32_260: 1707994931
+      16_Grocery_store_Black_Shadow_32x32_132: -1152077890
+      16_Grocery_store_Black_Shadow_32x32_248: -1535556158
+      16_Grocery_store_Black_Shadow_32x32_234: -1331419824
+      16_Grocery_store_Black_Shadow_32x32_317: 317929880
+      16_Grocery_store_Black_Shadow_32x32_269: 1386446341
+      16_Grocery_store_Black_Shadow_32x32_13: 652518855
+      16_Grocery_store_Black_Shadow_32x32_0: 825920283
+      16_Grocery_store_Black_Shadow_32x32_144: -2055689113
+      16_Grocery_store_Black_Shadow_32x32_186: 2023453438
+      16_Grocery_store_Black_Shadow_32x32_73: 1569497243
+      16_Grocery_store_Black_Shadow_32x32_71: -555417650
+      16_Grocery_store_Black_Shadow_32x32_256: -771779273
+      16_Grocery_store_Black_Shadow_32x32_28: -657470031
+      16_Grocery_store_Black_Shadow_32x32_61: -835058084
+      16_Grocery_store_Black_Shadow_32x32_200: -643684601
+      16_Grocery_store_Black_Shadow_32x32_20: -839954748
+      16_Grocery_store_Black_Shadow_32x32_162: 178414293
+      16_Grocery_store_Black_Shadow_32x32_157: -742062770
+      16_Grocery_store_Black_Shadow_32x32_177: -582290450
+      16_Grocery_store_Black_Shadow_32x32_273: 1477295431
+      16_Grocery_store_Black_Shadow_32x32_277: -1973175990
+      16_Grocery_store_Black_Shadow_32x32_6: 801486989
+      16_Grocery_store_Black_Shadow_32x32_180: -1281853292
+      16_Grocery_store_Black_Shadow_32x32_60: -906976553
+      16_Grocery_store_Black_Shadow_32x32_74: 868354979
+      16_Grocery_store_Black_Shadow_32x32_89: -172378992
+      16_Grocery_store_Black_Shadow_32x32_99: 112126366
+      16_Grocery_store_Black_Shadow_32x32_150: -1516906108
+      16_Grocery_store_Black_Shadow_32x32_238: 1931837206
+      16_Grocery_store_Black_Shadow_32x32_173: -857269166
+      16_Grocery_store_Black_Shadow_32x32_148: 70995623
+      16_Grocery_store_Black_Shadow_32x32_193: 466037249
+      16_Grocery_store_Black_Shadow_32x32_293: -1182550694
+      16_Grocery_store_Black_Shadow_32x32_27: 626031871
+      16_Grocery_store_Black_Shadow_32x32_36: 621018348
+      16_Grocery_store_Black_Shadow_32x32_104: 76709560
+      16_Grocery_store_Black_Shadow_32x32_254: -587402302
+      16_Grocery_store_Black_Shadow_32x32_227: -303307564
+      16_Grocery_store_Black_Shadow_32x32_311: 654644527
+      16_Grocery_store_Black_Shadow_32x32_34: -1212608122
+      16_Grocery_store_Black_Shadow_32x32_264: -192158455
+      16_Grocery_store_Black_Shadow_32x32_108: 1858132259
+      16_Grocery_store_Black_Shadow_32x32_319: -1333419967
+      16_Grocery_store_Black_Shadow_32x32_183: 264971327
+      16_Grocery_store_Black_Shadow_32x32_97: -597208174
+      16_Grocery_store_Black_Shadow_32x32_15: -2057859193
+      16_Grocery_store_Black_Shadow_32x32_178: 1554261572
+      16_Grocery_store_Black_Shadow_32x32_253: 1166207978
+      16_Grocery_store_Black_Shadow_32x32_88: 1045810835
+      16_Grocery_store_Black_Shadow_32x32_92: 1614806950
+      16_Grocery_store_Black_Shadow_32x32_154: 1179076534
+      16_Grocery_store_Black_Shadow_32x32_37: 217922558
+      16_Grocery_store_Black_Shadow_32x32_84: -743610494
+      16_Grocery_store_Black_Shadow_32x32_201: -732819128
+      16_Grocery_store_Black_Shadow_32x32_122: -1364301451
+      16_Grocery_store_Black_Shadow_32x32_23: -1853992957
+      16_Grocery_store_Black_Shadow_32x32_121: 2140934496
+      16_Grocery_store_Black_Shadow_32x32_208: -680883070
+      16_Grocery_store_Black_Shadow_32x32_4: 1550480049
+      16_Grocery_store_Black_Shadow_32x32_72: 564294497
+      16_Grocery_store_Black_Shadow_32x32_295: -2016107006
+      16_Grocery_store_Black_Shadow_32x32_282: -1104326199
+      16_Grocery_store_Black_Shadow_32x32_31: 738609182
+      16_Grocery_store_Black_Shadow_32x32_266: 1695584488
+      16_Grocery_store_Black_Shadow_32x32_155: 875025309
+      16_Grocery_store_Black_Shadow_32x32_320: 839241500
+      16_Grocery_store_Black_Shadow_32x32_205: 1120859716
+      16_Grocery_store_Black_Shadow_32x32_284: 163753704
+      16_Grocery_store_Black_Shadow_32x32_299: -952735077
+      16_Grocery_store_Black_Shadow_32x32_211: -1763260368
+      16_Grocery_store_Black_Shadow_32x32_107: -1944427563
+      16_Grocery_store_Black_Shadow_32x32_301: -370928320
+      16_Grocery_store_Black_Shadow_32x32_161: -2134105686
+      16_Grocery_store_Black_Shadow_32x32_70: -1787386366
+      16_Grocery_store_Black_Shadow_32x32_126: 503570487
+      16_Grocery_store_Black_Shadow_32x32_202: -772607812
+      16_Grocery_store_Black_Shadow_32x32_19: -940734526
+      16_Grocery_store_Black_Shadow_32x32_158: -1491196801
+      16_Grocery_store_Black_Shadow_32x32_307: -1217540074
+      16_Grocery_store_Black_Shadow_32x32_40: 1319809444
+      16_Grocery_store_Black_Shadow_32x32_110: 1257590801
+      16_Grocery_store_Black_Shadow_32x32_165: 1992059554
+      16_Grocery_store_Black_Shadow_32x32_94: -1638113623
+      16_Grocery_store_Black_Shadow_32x32_124: -2027935937
+      16_Grocery_store_Black_Shadow_32x32_149: -147422001
+      16_Grocery_store_Black_Shadow_32x32_221: -544953755
+      16_Grocery_store_Black_Shadow_32x32_286: 1008336710
+      16_Grocery_store_Black_Shadow_32x32_300: 940831215
+      16_Grocery_store_Black_Shadow_32x32_303: 975078259
+      16_Grocery_store_Black_Shadow_32x32_55: -1073376236
+      16_Grocery_store_Black_Shadow_32x32_96: -988414312
+      16_Grocery_store_Black_Shadow_32x32_91: 1676739750
+      16_Grocery_store_Black_Shadow_32x32_232: -464585495
+      16_Grocery_store_Black_Shadow_32x32_292: 2068203038
+      16_Grocery_store_Black_Shadow_32x32_82: 680176112
+      16_Grocery_store_Black_Shadow_32x32_174: 813713417
+      16_Grocery_store_Black_Shadow_32x32_57: 1677620198
+      16_Grocery_store_Black_Shadow_32x32_244: -1327502261
+      16_Grocery_store_Black_Shadow_32x32_215: 1257767820
+      16_Grocery_store_Black_Shadow_32x32_87: -2087039922
+      16_Grocery_store_Black_Shadow_32x32_184: 2029442653
+      16_Grocery_store_Black_Shadow_32x32_207: -462851133
+      16_Grocery_store_Black_Shadow_32x32_159: -1673703356
+      16_Grocery_store_Black_Shadow_32x32_109: -56036465
+      16_Grocery_store_Black_Shadow_32x32_38: -1013265964
+      16_Grocery_store_Black_Shadow_32x32_308: 1113388001
+      16_Grocery_store_Black_Shadow_32x32_76: -363783797
+      16_Grocery_store_Black_Shadow_32x32_54: 1106359487
+      16_Grocery_store_Black_Shadow_32x32_259: 993937059
+      16_Grocery_store_Black_Shadow_32x32_271: 20320016
+      16_Grocery_store_Black_Shadow_32x32_14: -757947085
+      16_Grocery_store_Black_Shadow_32x32_17: -89708100
+      16_Grocery_store_Black_Shadow_32x32_270: 2091757685
+      16_Grocery_store_Black_Shadow_32x32_312: 1362247345
+      16_Grocery_store_Black_Shadow_32x32_323: -434788291
+      16_Grocery_store_Black_Shadow_32x32_235: 1270326845
+      16_Grocery_store_Black_Shadow_32x32_83: -21515154
+      16_Grocery_store_Black_Shadow_32x32_111: 2023962973
+      16_Grocery_store_Black_Shadow_32x32_176: -978823670
+      16_Grocery_store_Black_Shadow_32x32_275: -1707794524
+      16_Grocery_store_Black_Shadow_32x32_59: -1752316544
+      16_Grocery_store_Black_Shadow_32x32_77: 1499136698
+      16_Grocery_store_Black_Shadow_32x32_115: 1936545195
+      16_Grocery_store_Black_Shadow_32x32_251: -968289942
+      16_Grocery_store_Black_Shadow_32x32_280: 194469718
+      16_Grocery_store_Black_Shadow_32x32_117: 1660803950
+      16_Grocery_store_Black_Shadow_32x32_241: 112522527
+      16_Grocery_store_Black_Shadow_32x32_296: 1958507687
+      16_Grocery_store_Black_Shadow_32x32_63: -1436700762
+      16_Grocery_store_Black_Shadow_32x32_65: -939299066
+      16_Grocery_store_Black_Shadow_32x32_226: 711997610
+      16_Grocery_store_Black_Shadow_32x32_196: -410644851
+      16_Grocery_store_Black_Shadow_32x32_322: -1387782968
+      16_Grocery_store_Black_Shadow_32x32_118: -2086803341
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
