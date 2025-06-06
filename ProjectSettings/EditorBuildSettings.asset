@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/redgirl2.unity
     guid: 1d65a4d1dec545048b8d0d43ef3f2c0c
+  - enabled: 1
+    path: Assets/Scenes/School 1st floor.unity
+    guid: f2eece750c42ccd40b0b1f97879e532d
+  - enabled: 1
+    path: Assets/Scenes/School 2nd Floor.unity
+    guid: b3e56ec6176fdf445ad5402dce327393
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: e0821cf5aa441fa48ba47c7b39db2321
   m_configObjects: {}
